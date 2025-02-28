@@ -15,7 +15,7 @@ I am an aspiring front-end developer. Unfortunately, the war in my country preve
 ### Languages: 
 
 * 🇺🇦 Ukrainian - native 
-* us English - A2 
+* 🇺🇸 English - A2 
 
 ### Skills
 
