@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yurii
 =============================================================================================================================
 
-💡 I'm tranee frontend developer
+💡 I'm junior frontend developer
 --------------------------------
 
 I am an aspiring front-end developer. Unfortunately, the war in my country prevented me from starting my career immediately after completing my courses. However, I remain highly motivated and eager to embark on my journey in development.
